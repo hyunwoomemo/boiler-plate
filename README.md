@@ -8,7 +8,7 @@
 
 - git
 - Node
-- MongoDB
+- MySQL
 - React
 - Redux
 
